@@ -80,7 +80,8 @@ Transforms were done in Power Query; KPIs built using DAX.
 ## 🔗 Full Project Write-Up (Portfolio)
 
 For the narrative, screenshots, and business insights:  
-[👉 **[View full project on my Notion Portfolio](YOUR_NOTION_LINK_HERE)**](https://www.notion.so/European-Fashion-Store-Power-BI-Analytics-Dashboard-2c3388b7f1a6800d9c5ffc36181533cd)
+[👉 **[View full project on my Notion Portfolio](https://healthy-scowl-eac.notion.site/Tyler-Dawson-Data-Portfolio-2c3388b7f1a6806da9e9e365aaefd466?source=copy_link)
+**]
 
 ---
 
